@@ -1,0 +1,38 @@
+
+body{background-color: grey;}
+.imagem{
+    position: relative;
+    left: 100px;
+    width: 150px;
+    height: 200px;
+}
+
+.fonte1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.fonte2{
+    font-family: monospace;
+    font-size: 14px;
+}
+
+.nav{
+    text-align: center;
+    background-color: white;
+}
+
+
+.fonte3{
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.fonte4{
+    font-family: monospace;
+    font-size: 17px;
+}
+
+.foot{
+    text-align: center;
+    background-color: white;
+}
